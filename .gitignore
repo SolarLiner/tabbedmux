@@ -9,3 +9,12 @@ version.h
 !password_adapter.c
 !misc.c
 !tmux_decode.c
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+/compile_commands.json
